@@ -110,3 +110,4 @@ if __name__ == "__main__":
         main()
     except SystemExit as e:
         print(f"Program exited with status: {e}")
+        print("thanks for helping")
